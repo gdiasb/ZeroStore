@@ -1,0 +1,29 @@
+body {
+  background-color: whitesmoke;
+}
+
+.grid {
+  height: 100vh;
+
+  display: grid;
+  grid-template-columns: 5vw 10vw auto;
+  grid-column-gap: 5vw;
+
+  align-items: center;
+}
+
+.navbar{
+  background-color: black;
+  color: whitesmoke;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.navbar:hover {
+  grid-column: span 2;
+  transition: ease 2s;
+}
