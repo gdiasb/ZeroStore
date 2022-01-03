@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500&display=swap');
+
 body {
   background-color: whitesmoke;
 }
@@ -6,24 +8,66 @@ body {
   height: 100vh;
 
   display: grid;
-  grid-template-columns: 5vw 10vw auto;
+  grid-template-columns: 7vw auto;
   grid-column-gap: 5vw;
 
   align-items: center;
 }
 
-.navbar{
-  background-color: black;
-  color: whitesmoke;
+.navbar {
+  background-color: whitesmoke;
   height: 100vh;
 
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
+
+  box-shadow: 10px 3px 5px -7px rgba(173,173,173,0.5);
 
 }
 
-.navbar:hover {
-  grid-column: span 2;
-  transition: ease 2s;
+.nav_logo {
+  background-image: url(./img/blob.svg);
+  text-align: center;
+  font-family: 'Josefin Sans';
+  font-weight: 500;
+  font-size: 1.5em;
+
+  opacity: 0.5;
+  transition: 1s;
+
+  padding-top: 1vh;
+}
+
+.nav_logo:hover {
+  color: orangered;
+  opacity: 1;
+}
+
+.nav_links {
+  /* background-color: yellow; */
+  height: 70vh;
+  padding: 0;
+
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav_links li {
+  opacity: 0.5;
+  font-size: 1.45em;
+
+  margin: 2vh 0;
+  list-style: none;
+}
+
+.nav_links li:hover {
+  opacity: 1;
+  transition: 1s;
+}
+
+.nav_links li:last-child {
+  margin-top: auto;
 }

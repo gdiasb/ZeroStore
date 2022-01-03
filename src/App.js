@@ -4,10 +4,23 @@ import './App.css';
 function App() {
   return (
     <div className="grid">
-      <div className="navbar">
-        <p>Zero Store</p>
-        <i class="fas fa-shopping-cart"><span>Cart</span></i>
-      </div>
+      <nav className="navbar">
+        <div className="nav_logo">Zero Store</div>
+        <ul className="nav_links">
+          <li>
+            <i class="bi bi-basket"></i>
+          </li>
+          <li>
+            <i class="bi bi-search"></i>
+          </li>
+          <li>
+            <i class="bi bi-pin-map"></i>
+          </li>
+          <li>
+            <i class="bi bi-person-circle"></i>
+          </li>
+        </ul>
+      </nav>
       <div>Column 1</div>
     </div>
   );

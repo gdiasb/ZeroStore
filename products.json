@@ -1,0 +1,20 @@
+[
+  {
+    "id": "macbook_1",
+    "photos": [
+      {
+        "title": "",
+        "src": "https://images.unsplash.com/photo-1575024357670-2b5164f470c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+        "title": "",
+        "src": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/notebook-2.jpg"
+      }
+    ],
+    "name": "Macbook Pro",
+    "brand": "",
+    "price": "",
+    "description": "",
+    "sold": "false"
+  }
+]
