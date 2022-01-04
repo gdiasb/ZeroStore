@@ -1,27 +1,36 @@
 import React from 'react';
 import './App.css';
+import Home from './pages/Home/Home';
 
 function App() {
   return (
     <div className="grid">
       <nav className="navbar">
-        <div className="nav_logo">Zero Store</div>
+        <div className="nav_logo">Z</div>
         <ul className="nav_links">
           <li>
-            <i class="bi bi-basket"></i>
+            <button>
+              <i class="bi bi-basket"></i>
+            </button>
           </li>
           <li>
-            <i class="bi bi-search"></i>
+            <button>
+              <i class="bi bi-search"></i>
+            </button>
           </li>
           <li>
-            <i class="bi bi-pin-map"></i>
+            <button>
+              <i class="bi bi-pin-map"></i>
+            </button>
           </li>
           <li>
-            <i class="bi bi-person-circle"></i>
+            <button>
+              <i class="bi bi-person-circle"></i>
+            </button>
           </li>
         </ul>
       </nav>
-      <div>Column 1</div>
+      <div><Home /></div>
     </div>
   );
 }

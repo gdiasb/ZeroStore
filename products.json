@@ -1,20 +1,158 @@
 [
   {
-    "id": "macbook_1",
+    "id": "airpodspro_1",
     "photos": [
       {
-        "title": "",
-        "src": "https://images.unsplash.com/photo-1575024357670-2b5164f470c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "title": "AirpodsPro_1",
+        "thumb": "https://i.im.ge/2022/01/05/XFbM0K.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbM0K.jpg"
       },
       {
-        "title": "",
-        "src": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/notebook-2.jpg"
+        "title": "AirpodsPro_2",
+        "thumb": "https://i.im.ge/2022/01/05/XFbrJM.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbrJM.jpg"
+      },
+      {
+        "title": "AirpodsPro_3",
+        "thumb": "https://i.im.ge/2022/01/05/XFboMX.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFboMX.jpg"
+      }
+    ],
+    "name": "AirPods Pro",
+    "brand": "Apple",
+    "categorie": "Headphone",
+    "price": "249",
+    "description": "The premium version of Apple's standard AirPods. They feature two audio modes for filtering outside sounds, changeable ear tips, and the H1 processor. Gyroscopes in the ear pieces enable users to move their head 'around' within an audio space using a feature called Spatial Audio.",
+    "sold": "false"
+  },
+  {
+    "id": "canon_1",
+    "photos": [
+      {
+        "title": "CanonCamera_1",
+        "thumb": "https://i.im.ge/2022/01/05/XFYerF.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFYerF.jpg"
+      },
+      {
+        "title": "CanonCamera_2",
+        "thumb": "https://i.im.ge/2022/01/05/XFbQg9.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbQg9.jpg"
+      },
+      {
+        "title": "CanonCamera_3",
+        "thumb": "https://i.im.ge/2022/01/05/XFbXD8.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbXD8.jpg"
+      }
+    ],
+    "name": "Canon EOS R Camera",
+    "brand": "Canon",
+    "categorie": "Camera",
+    "price": "1899",
+    "description": "The first step in Canon's mirrorless evolution, the EOS R pairs a redeveloped lens mount and updated full-frame image sensor for a unique and sophisticated multimedia camera system. Revolving around the new RF lens mount, the EOS R is poised to be the means from which to make the most of a new series of lenses and optical technologies.",
+    "sold": "false"
+  },
+  {
+    "id": "sonyheadphone_1",
+    "photos": [
+      {
+        "title": "SonyHeadphone_1",
+        "thumb": "https://i.im.ge/2022/01/05/XFblEh.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFblEh.jpg"
+      },
+      {
+        "title": "SonyHeadphone_2",
+        "thumb": "https://i.im.ge/2022/01/05/XFbIJm.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbIJm.jpg"
+      },
+      {
+        "title": "SonyHeadphone_3",
+        "thumb": "https://i.im.ge/2022/01/05/XFbOND.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbOND.jpg"
+      }
+    ],
+    "name": "Sony WH-1000XM4 Headphone",
+    "brand": "Sony",
+    "categorie": "Headphone",
+    "price": "349",
+    "description": "No matter where you go, the black Sony WH-1000XM4 Wireless Noise-Canceling Over-Ear Headphones deliver pristine sound quality while automatically adjusting ambient sound according to your activity and registered locations, leaving your hands and mind free from the hassle of changing settings just to hear what you want to hear. Plus, the headphones detect when you're wearing them and start and stop your audio for you.",
+    "sold": "false"
+  },
+  {
+    "id": "iphonepro_1",
+    "photos": [
+      {
+        "title": "iPhonePro_1",
+        "thumb": "https://i.im.ge/2022/01/05/XFbFSY.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbFSY.jpg"
+      },
+      {
+        "title": "iPhonePro_2",
+        "thumb": "https://i.im.ge/2022/01/05/XFb1V4.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFb1V4.jpg"
+      },
+      {
+        "title": "iPhonePro_3",
+        "thumb": "https://i.im.ge/2022/01/05/XFbSrC.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbSrC.jpg"
+      }
+    ],
+    "name": "iPhone 12 Pro",
+    "brand": "Apple",
+    "categorie": "Smartphone",
+    "price": "999",
+    "description": "The iPhone 12 Pro is the smaller of two pro-level phones in Apple's 2020 iPhone lineup. It has a glass and stainless-steel design with flat edges. The three-camera system and LiDAR sets this model apart from the standard edition.",
+    "sold": "false"
+  },
+  {
+    "id": "macbookpro_1",
+    "photos": [
+      {
+        "title": "MacBookPro_1",
+        "thumb": "https://i.im.ge/2022/01/05/XFbaMP.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbaMP.jpg"
+      },
+      {
+        "title": "MacBookPro_2",
+        "thumb": "https://i.im.ge/2022/01/05/XFbd5q.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbd5q.jpg"
+      },
+      {
+        "title": "MacBookPro_3",
+        "thumb": "https://i.im.ge/2022/01/05/XFbUdr.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbUdr.jpg"
       }
     ],
     "name": "Macbook Pro",
-    "brand": "",
-    "price": "",
-    "description": "",
+    "brand": "Apple",
+    "categorie": "Laptop",
+    "price": "1199",
+    "description": "Used by students, creative professionals, and more, the Apple 13.3 MacBook Pro now features Apple's first chip designed specifically for Mac. The Apple M1 integrates the CPU, GPU, Neural Engine, I/O, and more into a single system on a chip (SoC). Tackle your projects with the fast 8-Core CPU and take on graphics-intensive apps and games with the 8-core GPU. Accelerate machine learning tasks with the 16-core Neural Engine. With the active cooling system and up to 20 hours of video playback, the MacBook Pro can handle your tasks with ease.",
     "sold": "false"
+  },
+  {
+    "id": "applewatch_1",
+    "photos": [
+      {
+        "title": "AppleWatch_1",
+        "thumb": "https://i.im.ge/2022/01/05/XFbqgp.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbqgp.jpg"
+      },
+      {
+        "title": "AppleWatch_2",
+        "thumb": "https://i.im.ge/2022/01/05/XFb7I1.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFb7I1.jpg"
+      },
+      {
+        "title": "AppleWatch_3",
+        "thumb": "https://i.im.ge/2022/01/05/XFbDEf.th.jpg",
+        "src": "https://i.im.ge/2022/01/05/XFbDEf.jpg"
+      }
+    ],
+    "name": "Apple Watch Series 7",
+    "brand": "Apple",
+    "categorie": "Smartwatch",
+    "price": "399",
+    "description": "Delivering a new evolution in fitness tracking, health management, and mobile communication, Apple has upgraded key aspects of the Watch Series 7 to benefit everyone in your family. The Watch Series 7 is more user friendly, with an always-on OLED Retina display that provides approximately 20% more screen area than the Series 6, and 50% more than the Series 3. Apple achieved this by making the borders roughly 40% thinner than the Series 6, so you get more screen without adding bulk.",
+    "sold": "true"
   }
 ]
